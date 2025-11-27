@@ -1,3 +1,6 @@
+> [!NOTE]  
+> This account will be converted into a personal account to further reflect to my personal and professional life.
+
 #### Hello! I'm dp!
 - 🧒 I'm 18 Years old
 - 🇵🇭 A born and raised Filipino
