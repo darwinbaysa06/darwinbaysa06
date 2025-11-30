@@ -1,34 +1,45 @@
-> [!NOTE]  
-> This account will be converted into a personal account to further reflect to my personal and professional life.
+# Darwin Baysa <br>
+<sub>(Also known as dp, dpg06, dplayz)</sub>  
 
-#### Hello! I'm dp!
-- 🧒 I'm 18 Years old
+- 🧒 I'm 19 Years old
 - 🇵🇭 A born and raised Filipino
 - ♂️ My Pronouns are He/Him
-- 📚 I'm currently 1st Year BS Information Technology student
+- 📚 I'm currently 2nd Year BS Information Technology student
 - 💡 I do have proper knowledge about HTML, CSS, JS, and little bit Bash scripting
 - 📬 You can reach me at [dp@dpg06.top](mailto:dp@dpg06.top), @dpg06 on Discord
-- ℹ️ More info on my [infopage](https://dpg06.top/info)
 
-#### Projects
-| Name | Description
-|-|-|
-| WIP | Contents of it is Work in progress. Will do if I have time. Feel free to check [`?tab=repositories`](https://github.com/dplayz?tab=repositories)
+## Education
+- **New Era University**  
+  Bachelor of Science in Information Technology  
+  2nd Year College Student  
+  2024- Present  
+
+## Certifications
+| Course   | Date | Links |
+|----------|------|-------|
+| SQL and Relational Databases 101 | 2025 | [Certificate](https://personal-cdn.dpg06.top/identity/course-certificates/IBM%20DB0101EN%20Certificate%20_%20Cognitive%20Class.pdf) [Verify](https://courses.cognitiveclass.ai/certificates/abcd5bf1802b473ebd296627e0960242) |
+
+## Skillsets
+|Language | Level |
+|-----|------------|
+| HTML |★★★★★|
+| CSS |★★★★★|
+| JavaScript | ★★★★|
+|Bootstrap| ★★★★|
+|NodeJS|★★ |
+| Java | ★★|
+|C# |★★|
+|Python|★|
+|Lua| ★|
+|Bash Scripting| ★★★ |
+
+|OS| Level |
+|--|-------|
+|Windows| ★★★|
+|Linux| ★★★★|  
 
 
-<details>
-<summary>
+> [!NOTE]  
+> This account has been converted into a personal account to comply with the directives of my course. This may or may not be reverted. Just don't doxx me when you know me personally pls
 
-
-  
-#### What am i doing?
-  
-</summary>
-
-| Discord | Last.fm |
-|---|---|
-| [![Discord Presence](https://lanyard.cnrad.dev/api/495543164829040651)](https://discord.com/users/495543164829040651) | [![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=dpG06)](https://www.last.fm/user/dpG06) |
-
-</details>
-
-``Last edited 12/31/2024``
+``Last edited 11/30/2025``
