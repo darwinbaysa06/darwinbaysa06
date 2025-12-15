@@ -22,6 +22,8 @@
 | SQL and Relational Databases 101 | 2025 | IBM Developer Skills Network | [Certificate](https://personal-cdn.dpg06.top/identity/course-certificates/IBM%20DB0101EN%20Certificate%20_%20Cognitive%20Class.pdf) [Verify](https://courses.cognitiveclass.ai/certificates/abcd5bf1802b473ebd296627e0960242) |
 | Oracle Cloud Infrastructure 2025 Certified Foundations Associate | 2025 | Oracle University | [Certificate](https://personal-cdn.dpg06.top/identity/course-certificates/Oracle%20Cloud%20Infrastructure%202025%20Certified%20Foundations%20Associate%20eCertificate.pdf) [Badge](https://catalog-education.oracle.com/pls/certview/sharebadge?id=6D3C1F4409A862DC88BE20717E7D1E450F78EC7E6295398FABFCB6ECAA898A96)| 
 | Oracle Data Platform 2025 Certified Foundations Associate | 2025 | Oracle University | [Certificate](https://personal-cdn.dpg06.top/identity/course-certificates/Oracle%20Data%20Platform%202025%20Certified%20Foundations%20Associate.pdf) [Badge](https://catalog-education.oracle.com/ords/certview/sharebadge?id=45CCD3F58CDAE0ECD6041E910ABC1CF7F76B70DB5F36F01BECAD612F0065EFEC)| 
+| Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate | 2025 | Oracle University | [Certificate](https://personal-cdn.dpg06.top/identity/course-certificates/Oracle%20Cloud%20Infrastructure%202025%20Certified%20AI%20Foundations%20Associate.pdf) [Badge](https://catalog-education.oracle.com/pls/certview/sharebadge?id=8433874B82DF62B6CC1316117C662D7D9269E67401E3A5D42504A3B323CB16A0)| 
+
 
 ## Skillsets
 |Language | Level |
