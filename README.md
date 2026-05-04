@@ -6,7 +6,6 @@
 - ♂️ My Pronouns are He/Him
 - 📚 I'm currently 2nd Year BS Information Technology student
 - 💡 I do have proper knowledge about HTML, CSS, JS and Bedrock Server maintenance
-- 📬 You can reach me at [dar@win.dpg06.top](mailto:dar@win.dpg06.top), @dpg06 on Discord, [@dpg06:matrix.org](https://matrix.to/#/@dpG06:matrix.org) on Matrix
 - 🌐 More info in my [Website](https://darwinbaysa06.dpg06.top) 
 
 ## Education
@@ -62,7 +61,10 @@
 |Netlify|★★|
 |Firebase|★★|
 
-> [!NOTE]  
-> This account has been converted into a personal account to comply with the directives of my course. This may or may not be reverted. Just don't doxx me when you know me personally pls
+## Contact
+You may reach me at:
+- 📬 [dar@win.dpg06.top](mailto:dar@win.dpg06.top)
+- @dpg06 on Discord
+- [@dpg06:matrix.org](https://matrix.to/#/@dpG06:matrix.org) on Matrix
 
 ``Last updated 05/04/2025``
